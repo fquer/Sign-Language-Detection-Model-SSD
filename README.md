@@ -1,4 +1,4 @@
-# sign-language-detection-model
+# Sign Language Detection Model
 
 Sign language detector with Tensorflow.
 
