@@ -1,0 +1,40 @@
+item { 
+	name:'banyo'
+	id:1
+}
+item { 
+	name:'esit'
+	id:2
+}
+item { 
+	name:'evet'
+	id:3
+}
+item { 
+	name:'hayir'
+	id:4
+}
+item { 
+	name:'wow'
+	id:5
+}
+item { 
+	name:'acik'
+	id:6
+}
+item { 
+	name:'kapali'
+	id:7
+}
+item { 
+	name:'kalin'
+	id:8
+}
+item { 
+	name:'aramak'
+	id:9
+}
+item { 
+	name:'carpismak'
+	id:10
+}
